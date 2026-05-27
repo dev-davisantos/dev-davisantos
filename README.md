@@ -45,7 +45,7 @@
 
 ## Stacks de Interesse
 
-[![My Skills](https://skillicons.dev/icons?i=python,golang,angular)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,golang,next,react)](https://skillicons.dev) 
 
 ---
 
