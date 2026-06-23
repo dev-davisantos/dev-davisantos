@@ -3,21 +3,25 @@
 
 <span>Além disso, sou interessado em evoluir minhas habilidades com Python e Golang.</span>
 
-<span>Estudante de Analise e Desenvolvimento de Sistemas, pela </sp> <a href="https://www.unicid.edu.br" target="blank_">Unicid</a> 1/4
+<span>Estudante de Analise e Desenvolvimento de Sistemas, pela </sp> <a href="https://www.unicid.edu.br" target="blank_">Unicid</a> 2/4
 
 ---
 
 <h2> Melhores Projetos</h2>
 
- <h3>Library API 📚</h3>
-<span>API simples para gerenciamento de empréstimos de livros</span> <br>
+ <h3>🛡️ Arena - Challenges Manager ⚔️</h3>
+<span>Sistema de criação e gerenciamento de desafios</span> <br>
 
 <span>Tecnologias:</span> <br>
-<span>JDK 21, Spring Boot (Web & JPA), H2-Database</span> 
+<span>JDK 17, Spring Boot (Web & JPA), PostgreSQL</span> 
 
-<span>Status: Concluído</span>
+<span>
+Status: <br>
+ Backend: Concluído <br>
+ Frontend: Em desenvolvimento
+</span>
 
-<span>Link do Repositório:</span> <a href="https://github.com/DaviSantos-Dev/library-api.git">Library API</a>
+<span>Link do Repositório:</span> <a href="https://github.com/DaviSantos-Dev/arena-challenge-manager.git">Arena - CM</a>
 
 <h2></h2>
 
@@ -41,11 +45,11 @@
 
 ## Explorando
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,ts)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,angular)](https://skillicons.dev) 
 
 ## Stacks de Interesse
 
-[![My Skills](https://skillicons.dev/icons?i=python,golang,next,react)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,golang)](https://skillicons.dev) 
 
 ---
 
