@@ -41,15 +41,15 @@ Status: <br>
 
 ## Minhas Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,js)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,ts)](https://skillicons.dev) 
 
 ## Explorando
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,angular)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,react)](https://skillicons.dev) 
 
 ## Stacks de Interesse
 
-[![My Skills](https://skillicons.dev/icons?i=python,golang)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,golang,next)](https://skillicons.dev) 
 
 ---
 
