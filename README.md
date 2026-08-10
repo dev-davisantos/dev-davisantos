@@ -10,7 +10,7 @@
 
 ## Minhas Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,ts,react)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,ts,angular,react)](https://skillicons.dev) 
 
 ## Interesses
 
