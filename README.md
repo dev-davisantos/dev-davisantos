@@ -1,20 +1,20 @@
-<h2> 💻 Engenheiro de Software fullstack </h2>
+<h2> 💻 Desenvolvedor fullstack </h2>
 <p>
- Engenheiro de software na xxxx xxxxxx, desenvolvendo aplicações com Spring Boot e React. 
+ Desenvolvedor full-stack na xxxx xxxxxx, desenvolvendo aplicações com Spring Boot e Angular. 
 </p>
 <p>
- Estudante de Analise e Desenvolvimento de Sistemas, pela </sp> <a href="https://www.unicid.edu.br" target="blank_">Unicid</a> 2/4
+ Estudante de Analise e Desenvolvimento de Sistemas, pela <a href="https://www.unicid.edu.br" target="blank_">Unicid</a> 2/4
 </p>
 
 ---
 
-## Stacks Atuais
+## Minhas Stacks
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,ts,react)](https://skillicons.dev) 
 
-## Stacks Futuras
+## Interesses
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kafka,rabbitmq,kotlin,golang,next)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kafka,rabbitmq,kotlin,golang,python)](https://skillicons.dev) 
 
 ---
 
@@ -46,7 +46,7 @@ Frontend: Em desenvolvimento
  PostgreSQL
 </span>
 
-<span>Status: Em desenvolvimento</span>
+<span>Status: V1.0 Concluído</span>
 
 <span>Link do Repositório:<span> <a href="https://github.com/DaviSantos-Dev/order-manager-api.git"> Order Manager API</a>
 
