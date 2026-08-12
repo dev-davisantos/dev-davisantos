@@ -1,6 +1,6 @@
 <h2> 💻 Desenvolvedor fullstack </h2>
 <p>
- Desenvolvedor full-stack na xxxx xxxxxx, desenvolvendo aplicações com Spring Boot e Angular. 
+ Desenvolvedor full-stack na Dini Têxtil, desenvolvendo aplicações com Spring Boot e Angular. 
 </p>
 <p>
  Estudante de Analise e Desenvolvimento de Sistemas, pela <a href="https://www.unicid.edu.br" target="blank_">Unicid</a> 2/4
@@ -10,11 +10,11 @@
 
 ## Minhas Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,ts,angular,react)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,ts,angular)](https://skillicons.dev) 
 
 ## Interesses
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kafka,rabbitmq,kotlin,golang,python)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=golang,aws,docker,kafka,rabbitmq,kotlin,python)](https://skillicons.dev) 
 
 ---
 
