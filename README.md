@@ -20,35 +20,12 @@ I'm currently pursuing a degree in Systems Analysis and Development at UNICID, i
 
 ## Best Projects
 
-<h3>🛡️ Arena - Challenges Manager ⚔️</h3>
-<span>Sistema de criação e gerenciamento de desafios</span> <br>
-
-<span>Tecnologias:</span> <br>
-<span>JDK 17, Spring Boot (Web & JPA), PostgreSQL</span> 
-
-<span>
-Status: <br>
-Backend: Concluído <br>
-Frontend: Em desenvolvimento
-</span>
-
-<span>Link do Repositório:</span> <a href="https://github.com/DaviSantos-Dev/arena-challenge-manager.git">Arena - CM</a>
-
-<h2></h2>
-
-<h3>Order Manager API 📦</h3>
-<span>Sistema de gerenciamento de pedidos, em Java Spring Boot, com DDD Lite e Layered Architecture</span> <br>
-
-<span>Tecnologias:</span><br>
-<span>
- JDK 21,
- Spring Boot (Web & JPA),
- PostgreSQL
-</span>
-
-<span>Status: V1.0 Concluído</span>
-
-<span>Link do Repositório:<span> <a href="https://github.com/DaviSantos-Dev/order-manager-api.git"> Order Manager API</a>
+| 🛡️ Arena - Challenges Manager ⚔️ | 📦 Order Manager API |
+|---|---|
+| System developed to manage challenges <br> for a church event | API developed to manage order, and products |
+|![Java](https://img.shields.io/badge/JDK_17-010100?style=for-the-badge&logo=openjdk&logoColor=orange) ![Spring Boot](https://img.shields.io/badge/spring-010100?style=for-the-badge&logo=spring&logoColor=green) ![Spring Boot](https://img.shields.io/badge/PostgreSQL-010100?style=for-the-badge&logo=postgresql&logoColor=blue) | ![Java](https://img.shields.io/badge/JDK_21-010100?style=for-the-badge&logo=openjdk&logoColor=orange) ![Spring Boot](https://img.shields.io/badge/spring-010100?style=for-the-badge&logo=spring&logoColor=green) ![Spring Boot](https://img.shields.io/badge/PostgreSQL-010100?style=for-the-badge&logo=postgresql&logoColor=blue) |
+| Status: Concluded | Status: V1.0 Concluded |
+| You can see at: [Arena C.M.](https://github.com/dev-davisantos/arena-challenge-manager) | You can see at: [Order Manager](https://github.com/dev-davisantos/order-manager) |
 
 ---
 
@@ -58,8 +35,3 @@ Frontend: Em desenvolvimento
 - Database modeling
 - Cloud deployment with Docker and AWS
 - Distributed systems with Kafka and RabbitMQ
-
-## You can find me in:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dev-davisantos)
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/dev-davisantos)
-[![Personal Site](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dev-davisantos)
