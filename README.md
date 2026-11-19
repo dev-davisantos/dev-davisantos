@@ -1,24 +1,24 @@
-<h2> 💻 Desenvolvedor fullstack </h2>
-<p>
- Desenvolvedor full-stack na Dini Têxtil, desenvolvendo aplicações com Spring Boot e Angular. 
-</p>
-<p>
- Estudante de Analise e Desenvolvimento de Sistemas, pela <a href="https://www.unicid.edu.br" target="blank_">Unicid</a> 2/4
-</p>
+## 💻 Davi Santos - Software Engineer 
+
+### Hi, my name is Davi Santos! I'm a Brazilian software engineer, focused on backend.
+
+I'm interested in software architecture and systems design, but I'm not just interested in perfect systems or beautiful architectures. I'm interested in systems that survive reality and can grow over time.
+
+I'm currently pursuing a degree in Systems Analysis and Development at UNICID, in my second semester.
 
 ---
 
-## Minhas Stacks
+##  Technologies & tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,ts,angular)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,go)](https://github.com/dev-davisantos) 
 
-## Interesses
+## Interested in:
 
-[![My Skills](https://skillicons.dev/icons?i=golang,aws,docker,kafka,rabbitmq,kotlin,python)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kafka,rabbitmq,kotlin,python)](https://github.com/dev-davisantos) 
 
 ---
 
-<h2> Melhores Projetos</h2>
+## Best Projects
 
 <h3>🛡️ Arena - Challenges Manager ⚔️</h3>
 <span>Sistema de criação e gerenciamento de desafios</span> <br>
@@ -52,9 +52,14 @@ Frontend: Em desenvolvimento
 
 ---
 
-## 🧠 Foco técnico atual
+## 🧠 Technical Focus
 
-- Evoluir no ecossistema Spring (Web, JPA & Security)
-- modelagem de dados em bancos de dados SQL
-- containerização em docker e deploy de APIs na AWS
-- Serviços de Mansageria com Kafka e RabbitMq
+- Growing within the Java ecosystem
+- Database modeling
+- Cloud deployment with Docker and AWS
+- Distributed systems with Kafka and RabbitMQ
+
+## You can find me in:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dev-davisantos)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/dev-davisantos)
+[![Personal Site](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dev-davisantos)
